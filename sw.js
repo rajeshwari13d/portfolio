@@ -1,7 +1,7 @@
 // Service Worker for Rajeshwari Mali Portfolio
 // This provides basic caching for offline functionality
 
-const CACHE_NAME = "rajeshwari-portfolio-v1";
+const CACHE_NAME = "rajeshwari-portfolio-v2";
 const urlsToCache = [
   "/",
   "/index.html",
