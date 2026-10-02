@@ -26,8 +26,7 @@ echo.
 echo Conversion completed! Check the assets folder for new images.
 echo.
 echo Next steps:
-echo 1. Replace profile-placeholder.jpg with your actual photo
-echo 2. Update Krishna-Mahajan-Resume.pdf with your real resume
-echo 3. Verify all project screenshots are high quality
+echo 1. Replace profile picture.jpeg with your actual photo if needed
+echo 2. Verify all project screenshots and assets
 echo.
 pause

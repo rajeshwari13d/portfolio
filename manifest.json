@@ -1,7 +1,7 @@
 {
-  "name": "Krishna Mahajan - AI-Assisted Developer Portfolio",
-  "short_name": "Krishna Portfolio",
-  "description": "Portfolio of Krishna Mahajan - AI-Assisted Android & Web App Developer specializing in rapid MVP development",
+  "name": "Rajeshwari Mali - AI & Data Science Portfolio",
+  "short_name": "Rajeshwari Portfolio",
+  "description": "Portfolio of Rajeshwari Mali - AI & Data Science Student, AI/ML Developer, and AI Product Builder",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -66,14 +66,14 @@
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Krishna Mahajan Portfolio - Desktop View"
+      "label": "Rajeshwari Mali Portfolio - Desktop View"
     },
     {
       "src": "/assets/screenshot-narrow.png",
       "sizes": "375x812",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Krishna Mahajan Portfolio - Mobile View"
+      "label": "Rajeshwari Mali Portfolio - Mobile View"
     }
   ]
 }

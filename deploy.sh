@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Krishna Mahajan Portfolio - Deployment Script
+# Rajeshwari Mali Portfolio - Deployment Script
 # This script helps with common deployment tasks
 
 set -e
 
-echo "🚀 Krishna Mahajan Portfolio Deployment Script"
+echo "🚀 Rajeshwari Mali Portfolio Deployment Script"
 echo "================================================"
 
 # Function to display usage
@@ -63,8 +63,7 @@ check_assets() {
     
     # Check for placeholder files that should be replaced
     placeholder_files=(
-        "assets/profile-placeholder.jpg"
-        "assets/Krishna-Mahajan-Resume.pdf"
+        "assets/profile picture.jpeg"
     )
     
     echo "⚠️  TODO: Replace these placeholder files:"

@@ -1,5 +1,5 @@
 /**
- * Krushna Mali Portfolio — Interactive Architecture
+ * Rajeshwari Mali Portfolio — Interactive Architecture
  * Design Excellence Pass · GSAP 3.12.5 + ScrollTrigger + Canvas Mesh
  */
 

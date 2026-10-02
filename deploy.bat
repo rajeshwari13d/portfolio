@@ -1,7 +1,7 @@
 @echo off
-REM Krishna Mahajan Portfolio - Windows Deployment Script
+REM Rajeshwari Mali Portfolio - Windows Deployment Script
 
-echo 🚀 Krishna Mahajan Portfolio Deployment Script
+echo 🚀 Rajeshwari Mali Portfolio Deployment Script
 echo ================================================
 
 if "%1"=="" goto help
