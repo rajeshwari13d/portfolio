@@ -986,8 +986,46 @@ body.menu-open .nav__toggle-bar:nth-child(3) {
   color: var(--text-muted);
   margin-bottom: var(--space-1);
 }
+.project__gallery {
+  margin-top: var(--space-4);
+  margin-bottom: var(--space-4);
+}
 
-.project__disclaimer {
+.project__gallery h4 {
+  font-size: var(--text-small);
+  font-weight: 600;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: var(--space-3);
+}
+
+.gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: var(--space-3);
+}
+
+.gallery__item {
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--bg-base);
+  transition: transform var(--duration-fast) var(--ease-minor), border-color var(--duration-fast) var(--ease-minor);
+  display: block;
+}
+
+.gallery__item:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+}
+
+.gallery__item img {
+  width: 100%;
+  height: 75px;
+  object-fit: cover;
+  display: block;
+}
   font-size: var(--text-small);
   color: var(--text-muted);
   font-style: italic;
